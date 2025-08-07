@@ -8,11 +8,11 @@
 
 ### 🙋‍♀️ About Me
 
-- 🔭 I'm currently working on Web apps, Data Analysis, and UI Design  
-- 🌱 I'm learning **Python**, **SQL**, and **Power BI**  
+- 🔭 I'm currently working on Web apps, Data Analysis,Business Analysis and UI Design  
+- 🌱 I'm learning **Java**, **SQL**,**PHP**and **Power BI**  
 - 👯 I’m looking to collaborate on **Data Science** and **Web Projects**  
 - 💬 Ask me about: Java, HTML/CSS, PHP, MySQL  
-- 📫 Reach me at: kasunshya2001@gmail.com  
+- 📫 Reach me at: kasunshyapabodi2002@gmail.com  
 - ✨ Fun fact: I love visualizing data and solving real-world problems
 
 ---
