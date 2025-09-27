@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Kasunshya!
 
 🎓 Final year undergraduate in **Information Systems** at UCSC  
-💼 Aspiring **Business Analyst** **UI/UX** **QE**   | Passionate about **Data-Driven Decisions**  
+💼 Aspiring **Business Analyst**, **UI/UX** ,**QE**   | Passionate about **Data-Driven Decisions**  
 📍 Based in Sri Lanka
 
 ---
